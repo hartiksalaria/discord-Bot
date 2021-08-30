@@ -4,7 +4,7 @@ import os
 from google_trans_new import google_translator
 
 translator = google_translator()
-token = "ODUyODQ2OTE0ODk4ODg2NjU4.YMMxlQ.oDyVlfE5tADF0MbGX88rHdlcUgw"
+token = TOKEN
 client = discord.Client()
 
 commands = {
